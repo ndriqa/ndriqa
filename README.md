@@ -16,7 +16,7 @@ fun say(s: String) { print(s) }
 
 fun String.screaming() = this.uppercase()
 
-(psss...I know this could be done in a much shorter way, smartass...)
+(psss...I know this could be done in a much shorter way, smart cookie...)
 ```
 
 

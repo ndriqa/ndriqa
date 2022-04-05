@@ -6,7 +6,7 @@
 I also have my website if you want to check it out: https://www.ndriqa.com
 
 ```
-//fun fac of the day: I like being organized
+//fun fact of the day: I like being organized
 
 fun main(){
   say("hello".screaming())

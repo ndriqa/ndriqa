@@ -12,6 +12,8 @@ fun main(){
   say("hello".screaming())
 }
 
+fun say(s: String) { print(s) }
+
 fun String.screaming() = this.uppercase()
 ```
 
